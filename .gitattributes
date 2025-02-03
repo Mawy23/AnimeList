@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+anime.ipynb filter=lfs diff=lfs merge=lfs -text
+rating.csv filter=lfs diff=lfs merge=lfs -text
